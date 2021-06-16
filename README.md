@@ -1,4 +1,6 @@
-### Hi there 👋
+![Metrics](https://metrics.lecoq.io/DaveSkender)
+
+#### Hi there 👋
 
 - 🔭 I’m currently working on capital market algo trading, trading support systems, and technical indicators for equities, cryptocurrencies, forex, commodities, and others.
 - 🤔 I’m looking for help on:
