@@ -1,5 +1,3 @@
-![Metrics](https://metrics.lecoq.io/DaveSkender)
-
 #### Hi there 👋
 
 - 🔭 I’m currently working on capital market algo trading, trading support systems, and technical indicators for equities, cryptocurrencies, forex, commodities, and others.
@@ -27,4 +25,6 @@ Here are some ideas to get you started:
 ![Dave's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaveSkender&show_icons=true)
 
 Note: stats are of open-source only.
+
+![Metrics](https://metrics.lecoq.io/DaveSkender)
 -->
