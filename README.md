@@ -8,5 +8,5 @@
 - 📫 How to reach me: message [@daveskender](https://twitter.com/messages/compose?recipient_id=27475431) on Twitter.
 - ❤️ Sponsorship:
   - [GitHub Sponsors](https://github.com/sponsors/DaveSkender) platform (preferred)
-  - BTC 376R3rrxm5XbZjWX95sfaSWeajKcfLYXtE
-  - ETH 0xD79f37C809CEb864C7cad1fC189937A49e17073d
+  - BTC `376R3rrxm5XbZjWX95sfaSWeajKcfLYXtE`
+  - ETH `0xD79f37C809CEb864C7cad1fC189937A49e17073d`
