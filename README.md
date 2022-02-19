@@ -6,7 +6,4 @@
   2. [Stock.Charts](https://github.com/DaveSkender/Stock.Charts) demo [site](https://stock-charts.azurewebsites.net): a) general maturation, b) add indicators, and c) core administration.
   3. New projects.
 - 📫 How to reach me: message [@daveskender](https://twitter.com/messages/compose?recipient_id=27475431) on Twitter.
-- ❤️ Patronage:
-  - [GitHub Sponsors](https://github.com/sponsors/DaveSkender) platform (preferred)
-  - BTC `376R3rrxm5XbZjWX95sfaSWeajKcfLYXtE`
-  - ETH `0xD79f37C809CEb864C7cad1fC189937A49e17073d`
+- ❤️ Patronage: [GitHub Sponsors](https://github.com/sponsors/DaveSkender)
